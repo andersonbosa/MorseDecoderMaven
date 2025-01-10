@@ -1,0 +1,13 @@
+###
+GET http://localhost:8080/api/encode?input=MERCADO%20LIVRE
+
+<> 2025-01-09T150907.200.txt
+<> 2025-01-09T150119.200.txt
+<> 2025-01-09T150117.200.txt
+
+
+###
+GET http://localhost:8080/api/decode?input=-- . .-. -.-. .- -.. ---    .-.. .. ...- .-. .
+
+<> 2025-01-09T150909.200.txt
+<> 2025-01-09T150127.200.txt
